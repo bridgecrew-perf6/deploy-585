@@ -4,7 +4,7 @@ public class Greeting {
         if(args[0].equals("Student"))
         {
 
-            System.out.println("Hello Student");
+            System.out.println("Hi Student how are you");
         }
         else
         {
